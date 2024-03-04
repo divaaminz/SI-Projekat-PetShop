@@ -1,1 +1,3 @@
-# SI-Projekat-PetShop
+Prva Funkcionalnost projekat SI
+
+Odabrana funkcionalnost je logovanje/restartovanje šifre.
